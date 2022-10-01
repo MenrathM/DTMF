@@ -47,9 +47,6 @@ def getUserInput():
                 break
     return filteredInput
 
-    
-
-
 
 
 def convertNumberToDTMF(input):
@@ -119,5 +116,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#alles ganz genau nohc beschreiben
